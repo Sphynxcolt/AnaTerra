@@ -1,3 +1,7 @@
+![Minecraft Version](https://img.shields.io/badge/Minecraft-26.2-blue?style=for-the-badge&logo=minecraft)
+![Fabric](https://img.shields.io/badge/Fabric-Supported-00B2FF?style=for-the-badge&logo=fabric)
+![License](https://img.shields.io/badge/License-MPL2.0-green?style=for-the-badge)
+
 ![Title card](https://cdn.modrinth.com/data/cached_images/3efa91050263ad9460a57adb4e46afa7ac589c83.jpeg)
 
 WORK IN PROGRESS- no mod files available at this stage
