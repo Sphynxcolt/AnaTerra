@@ -29,7 +29,6 @@ Extensive planning and feature-revision may happen over the course of developmen
 
 The initial focus will be on its practical implementation.
 
-
 ## Key Features
 
 ### 1. Real-Scale Analytical Heightmaps
@@ -74,27 +73,6 @@ Special thanks and attributions to..
 
 > ..oovaa8 for their prior implementation of this technique, and the only other person I've seen to use it.
 
-AI disclosure
----
-This project uses AI assisted coding for faster iteration and implementation.
-Quality and function are the top priority. 
-
-I value honesty and transparency, especially with a topic that might be sensitive for many people. I respect Modrinth and its userbase, so it is only fair to talk about this.
-
-### What is *NOT* AI..
-From the first concepts and ideas to the Graphics, mod pages, etc. are completely untouched by AI and 100% human made.
-I take quality checks seriously and I am looking forward to what the future holds for this mod.
-
-> I want to make mods and addons with heart and love, no one wants to play a half-broken mod that has no soul.
-
-<details>
-<summary>footnote</summary>
-As a technical artist, I fully understand the critics, but at the same time I am intrigued by new technology. I want to test its capabilities and at the end of the day, realize well thought-through projects to have some fun with as a player myself.
-  
-My rule of thumb for creators is in general (not limited to AI):
-- "Would you be satisfied with the result, to play the mod yourself?"
-- No?- then no one else will play it.
-</details>
 
 ## License & Links
 
