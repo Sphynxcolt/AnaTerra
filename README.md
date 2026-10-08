@@ -4,6 +4,9 @@
 
 ![Title card](https://cdn.modrinth.com/data/cached_images/3efa91050263ad9460a57adb4e46afa7ac589c83.jpeg)
 
+WORK IN PROGRESS- no mod files available at this stage
+---
+
 ## What is AnaTerra?
 
 AnaTerra (*Analytical Terrain*) is based on the research and GLSL-shader by [Runevision](https://blog.runevision.com/2026/03/fast-and-gorgeous-erosion-filter.html). It aims to generate erosion- and geological features without any complex simulations, while refining it with different additional algorithms to create realistic and unique landforms.
