@@ -4,7 +4,7 @@
 
 ![Title card](https://cdn.modrinth.com/data/cached_images/3efa91050263ad9460a57adb4e46afa7ac589c83.jpeg)
 
-WORK IN PROGRESS- no mod files available at this stage
+WORK IN PROGRESS- use experimental releases on your own risk
 ---
 
 ## What is AnaTerra?
